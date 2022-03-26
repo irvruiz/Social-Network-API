@@ -1,0 +1,27 @@
+{
+  "name": "homework18.social-network-api",
+  "version": "1.0.0",
+  "description": "For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "watch": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irvruiz/Social-Network-API.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irvruiz/Social-Network-API/issues"
+  },
+  "homepage": "https://github.com/irvruiz/Social-Network-API#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.1"
+  }
+}
